@@ -1,6 +1,6 @@
 {
   "name": "@kobiche13/aj",
-  "version": "10.4.0",
+  "version": "10.2.4",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "author": "",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "license": "ISC",
   "devDependencies": {
